@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# 忽略本地向量库数据（通常不需要上传至代码仓）
+chroma_db/
+
+# 忽略 PDF 论文（如果太大或有版权限制）
+# paper/*.pdf
+
+# 忽略本地运行结果
+output/
+
+.DS_Store
